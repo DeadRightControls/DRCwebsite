@@ -14,6 +14,12 @@
     --sc-color: #3ec1d5;
     --th-color: #333;
 }
+
+.img-fit {
+    width: 100%;
+    height: 100%;
+}
+
 html{
     scroll-behavior: smooth;
     scroll-padding-top: 0.5rem;
